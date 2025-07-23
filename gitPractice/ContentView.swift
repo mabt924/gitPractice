@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("testing")
+            Text("adding new text")
             VStack {
                 Image(systemName: "globe")
                     .imageScale(.large)
